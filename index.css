@@ -9,39 +9,17 @@ input{
 button{
     width: 450px;
 }
-.mm{
-    margin: auto;
-    flex-direction: column;
-}
-img{
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-}
-.cool{
-    display: flex;
-    font-size: -120px;
-}
-p{
-    display: flex;
-    justify-content: center;
-}
+
+
+
+
 .footer{
     background-color: #09e1e0;
     height: 120px;
 }
 
-main{
-    display: flex;
-    max-width: 1440px;
-    margin: auto;
-    
-}
-.dist img{
-    margin: 10px;
-    padding: 20px;
-    width: 100%;
-}
+
+
 @media (max-width:375px) {
     .dist img{
         flex-wrap: wrap;
